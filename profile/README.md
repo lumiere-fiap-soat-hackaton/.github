@@ -31,3 +31,6 @@ Com esta ferramenta, você pode:
 *   **Analisar Momentos Críticos:** Isole quadros específicos de vídeos esportivos, experimentos científicos ou gravações de segurança para uma análise detalhada.
 *   **Criar Thumbnails e Materiais de Divulgação:** Encontre e salve o "frame de ouro" de um vídeo para usá-lo como capa, pôster ou em redes sociais.
 *   **Produzir GIFs e Stop-Motions:** Exporte sequências de imagens para criar animações ou outros trabalhos artísticos.
+
+## Arquitetura da solução
+![Lumière - Video Processor](https://github.com/user-attachments/assets/ff5a98c7-4fc4-4ed8-8894-a98a210c4f5f)
